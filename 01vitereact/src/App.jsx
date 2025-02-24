@@ -7,6 +7,7 @@ function App() {
     <>
     <Chai/>
     <h1>for return two element</h1>
+    <p>test para</p>
     </>
   )
 }
